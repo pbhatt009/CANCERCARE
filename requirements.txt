@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+torch
+torchvision
+Pillow
+requests
+python-dotenv
+pydantic
+tqdm
